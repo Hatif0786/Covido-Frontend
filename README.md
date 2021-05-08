@@ -3,6 +3,9 @@
 =======
 # Getting Started with Covido Project
 
+Please clone the repository followed by opening the repostiory in a suitable editor and follow the below instructions. 
+
+
 In the project directory, you can run:
 
 ### `npm start`
