@@ -1,0 +1,11 @@
+.App{
+  font-family: "Poppins", sans-serifs;
+}
+.about, .doctors{
+  margin-top: 5.5rem;
+  margin-bottom: 1.5rem;;
+}
+#tui{
+  border:0;
+  width: 100%;
+}
